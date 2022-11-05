@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url("images/image.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    line-height: 100vh;
+}
